@@ -26,4 +26,11 @@ List<String> categories = [
   'Technology',
   'Underwater',
   'World',
+  'Dubai',
+ 'apple',
+ 'abstract',
+ 'minimalistic',
+ 'aesthetic',
+
+ 
 ];
